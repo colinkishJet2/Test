@@ -1,0 +1,5 @@
+DROP TABLE IF EXISTS TableA ;
+CREATE TABLE TableA 
+	(
+	ColA INT NOT NULL 
+	) ;
